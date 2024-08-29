@@ -17,4 +17,4 @@ Prior to coming to Berkeley, I received a B.A. in Political Science, Philosophy,
 
 \vpsace{3ex}
 
-<a href="mailto:anna_weissman@berkeley.edu" class="button">Email Me</a> <a href="https://github.com/anna-weissman" class="button">GitHub</a>
+<a href="mailto:anna_weissman@berkeley.edu" class="button">Email Me</a> <a href="https://github.com/a-weissman" class="button">GitHub</a>
