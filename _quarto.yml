@@ -6,15 +6,15 @@ website:
   title: "Anna Weissman"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
-      - href: cv.qmd
+      - href: cv.html
         text: CV
-      - href: research.qmd
+      - href: research.html
         text: Research
-      - href: teaching.qmd
+      - href: teaching.html
         text: Teaching
-      - href: data.qmd
+      - href: data.html
         text: Data
       
 format:
