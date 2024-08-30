@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Anna Weissman"
+  favicon: images/aw-favicon.svg
   navbar:
     left:
       - href: index.html
