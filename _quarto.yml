@@ -4,7 +4,6 @@ project:
   
 website:
   title: "Anna Weissman"
-  favicon: /images/aw-favicon.svg
   navbar:
     left:
       - href: index.html
@@ -20,6 +19,7 @@ website:
       
 format:
   html:
+    favicon: "docs/favicon.ico"
     theme: cosmo
     css: styles.css
     toc: false
