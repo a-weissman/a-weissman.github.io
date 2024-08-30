@@ -19,8 +19,8 @@ website:
       
 format:
   html:
-    theme: cosmo
     css: styles.css
+    theme: cosmo
     toc: false
 
 editor: visual
