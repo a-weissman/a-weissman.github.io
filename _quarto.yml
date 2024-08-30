@@ -19,7 +19,7 @@ website:
       
 format:
   html:
-    favicon: "docs/favicon.ico"
+    favicon: "favicon.ico"
     theme: cosmo
     css: styles.css
     toc: false
