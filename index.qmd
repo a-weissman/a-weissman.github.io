@@ -22,6 +22,3 @@ Prior to coming to Berkeley, I received a B.A. in Political Science, Philosophy,
 
 <a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
 
-<!-- Minor update to trigger rebuild -->
-
-
