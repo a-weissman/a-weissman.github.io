@@ -3,6 +3,9 @@ title: ""
 format:
   html:
     css: styles.css
+    include-in-header:
+      text: |
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 ---
 
 ![](images/Headshot.png){.circular-image}
@@ -17,10 +20,7 @@ Prior to coming to Berkeley, I received a B.A. in Political Science, Philosophy,
 
 \vpsace{3ex}
 
-<a href="mailto:anna_weissman@berkeley.edu" class="button">
-  <i class="fa fa-envelope"></i> Email
-</a> 
+\vspace{3ex}
 
-<a href="https://github.com/a-weissman" class="button">
-  <i class="fa fa-github"></i> GitHub
-</a>
+<a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a> 
+<a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
