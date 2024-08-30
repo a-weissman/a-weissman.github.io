@@ -19,7 +19,6 @@ website:
       
 format:
   html:
-    favicon: "favicon.ico"
     theme: cosmo
     css: styles.css
     toc: false
