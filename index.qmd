@@ -22,36 +22,3 @@ Prior to coming to Berkeley, I received a B.A. in Political Science, Philosophy,
 
 <a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
 
-::: {layout-ncol=3}
-![](images/twinmountain.png)
-
-![](images/chamber.png)
-
-![](images/cooperlake.png)
-:::
-
-<style>
-.circular-image {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-}
-.center-title {
-  text-align: center;
-}
-.about-text {
-  text-align: justify;
-  max-width: 800px;
-  margin: 0 auto;
-}
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #4CAF50;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  margin: 5px;
-}
-</style>
