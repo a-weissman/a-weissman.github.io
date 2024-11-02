@@ -13,9 +13,9 @@ format:
 # Anna Weissman {.center-title}
 
 ::: about-text
-I am a PhD candidate in the Department of Political Science at the University of California, Berkeley. My research agenda is broadly focused on representation in American Politics, with specific interests in local politics and descriptive representation. I am particularly interested in the factors that shape local governance, especially in small, exurban municipalities. 
+I am a PhD candidate in the Department of Political Science at the University of California, Berkeley. My research examines representation in American Politics, considering both what shapes elected officials' decision-making and how constituents perceive their own representation. In my dissertation, I focus on these dynamics in local government, with particular attention to small, exurban municipalities. I investigate how various factors shape political processes and outcomes in these often-overlooked contexts, contributing to our understanding of representation at the local level. Another branch of my work centers on descriptive representation at the national level. My research has appeared in the *Journal of Politics* and the *Journal of Political Institutions and Political Economy*. 
 
-Prior to coming to Berkeley, I received a B.A. in Political Science, Philosophy, and German from Tufts University. Subsequently, I spent three years as a research associate in the Political Science department at MIT, working with scholars in both American and Comparative politics.
+Prior to Berkeley, I received a B.A. in Political Science, Philosophy, and German from Tufts University. Subsequently, I spent three years as a research associate in the Political Science department at MIT, working with scholars in both American and Comparative politics.
 :::
 
 \vpsace{3ex}
