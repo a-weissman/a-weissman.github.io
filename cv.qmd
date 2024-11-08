@@ -5,11 +5,11 @@ format:
     embed-resources: true  
 ---
 
-<iframe src="Weissman_CV_Nov2024.pdf" width="100%" height="600px">
+<iframe src="Weissman_CV_November2024.pdf" width="100%" height="600px">
 
 This browser does not support PDFs. Please download the PDF to view it: <a href="cv.pdf">Download PDF</a>.
 
 </iframe>
 
-You can also view or download my CV as a PDF by clicking [here](Weissman_CV_Nov2024.pdf).
+You can also view or download my CV as a PDF by clicking [here](Weissman_CV_November2024.pdf).
 
