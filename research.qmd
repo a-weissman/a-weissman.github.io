@@ -11,12 +11,14 @@ format:
 
 ::: {.callout-note appearance="simple" collapse="true" icon=false}
 ## \[1\] **"Descriptive Representation in an Era of Polarization"**, (forthcoming at the *Journal of Politics*). <https://doi.org/10.1086/732961>}
+
 Studies of descriptive representation find that voters more positively evaluate representatives who share their ascriptive characteristics. I argue that this pattern can be upended when voters develop more positive affect towards outgroups. In the United States, Democrats have increasingly expressed more positive views towards marginalized groups, while Republicans' attitudes about these groups have not shifted. Under such conditions, my argument predicts that the effect of representatives' race and gender on constituent evaluations should vary more by constituents' partisanship than by their own ascriptive characteristics. Applying a difference-in-differences design to 2008-2020 CCES data, I find that Democrats of all backgrounds now approve more highly of Congressmembers from historically marginalized groups, whereas Republicans' approval is unrelated to Member identity. Democrats also give women and minority representatives leeway to diverge ideologically. These findings demonstrate that polarizing attitudes about race and gender can disrupt classic patterns in how constituents evaluate representatives.
 :::
 
 
 ::: {.callout-note appearance="simple" collapse="true" icon=false}
 ## \[2\] Michael Hankinson, Asya Magazinnik and Anna Weissman (2024), **"When Do Local Interest Groups Participate in the Housing Entitlement Process?"**, *Journal of Political Institutions and Political Economy*: Vol. 5: No. 1, pp 47-69. <http://dx.doi.org/10.1561/113.00000093>
+
 Local governments control a hidden flow of economic goods that never appear on city budgets. Through the housing entitlement process, city officials may condition approval on the benefits developers provide to organized interests. But the politics and policies created by this discretionary review have yet to be studied through the lens of interest group mobilization. We bridge this gap with an analysis of the behavior of construction unions in the housing entitlement process. Using data from 164 U.S. cities, we find that construction union representatives are more likely to attend public meetings to advocate for favorable labor agreements when the expected profitability of new housing developments is high — and thus, when there are more particularistic benefits on the table. While interest group competition within local participatory institutions may signal a robust, pluralist democracy, it also risks driving up housing costs, to the detriment of both organized and unorganized residents.
 :::
 
@@ -25,11 +27,13 @@ Local governments control a hidden flow of economic goods that never appear on c
 
 ::: {.callout-note appearance="simple" collapse="true" icon=false}
 ## "As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color", with Anna Mikkelborg (under review)
+
 Recent research shows that white Democrats have become more approving of politicians of color compared to white politicians in the last decade, in contrast with past research indicating that white voters typically prefer white representatives. White voters’ support for politicians of color has long been linked to their racial attitudes, implying that this change could be a result of white Democrats’ increasing racial liberalism. This mechanism deserves more than speculation, since understanding the cause of this shift influences expectations about its likely durability and broader implications for racial politics. This paper provides evidence of the persistence of this shift and evaluates the most plausible potential mechanisms behind it. We find that racial attitudes are strongly associated with white Democrats’ greater approval of representatives of color at the individual level and over time, while there is little evidence that either partisan  norms or ideological stereotyping are responsible. These results provide evidence that white Democrats put their racial liberalism into action by supporting representatives of color.
 :::
 
 ::: {.callout-note appearance="simple" collapse="true" icon=false}
 ## "When Partisanship Shapes Local Politics"
+
 A growing literature challenges the long-standing idea that there is limited partisan influence in local politics, now providing evidence that officials' partisanship affects municipal governance. However, the reasons provided for why partisanship would matter apply variably across municipalities. Given the differences between large cities and small-town America, both institutional and demographic, I argue that officials' partisanship should matter less in smaller places. Using a multi-method approach, including analysis of council meeting transcripts, candidate statements, and a survey of 1,281 elected officials, I find that partisan division among representatives is largely absent in smaller localities and on many local issues. Partisan cleavages primarily emerge in larger cities on nationally salient topics. I also demonstrate why this might be the case, assessing several mechanisms that contribute to a greater role for partisanship in large local governments. These findings bridge perspectives from early work and recent scholarship by demonstrating that partisan influence in local governance is context-dependent. 
 :::
 
@@ -38,6 +42,7 @@ A growing literature challenges the long-standing idea that there is limited par
 
 ::: {.callout-note appearance="simple" collapse="true" icon=false}
 ## "Local Roots in Local Politics"
+
 What is the role of local roots in shaping local elections? Existing work highlights how partisanship, race, incumbency, homeownership, and gender influence municipal elections, often overlooking candidates' connections to their communities. Using a novel dataset of candidate statements from California municipal council elections, I show how frequently candidates emphasize their residency tenure and community involvement, finding that most candidates highlight these connections. I then use the voter file and data on municipal candidates to demonstrate the relationship between local roots and electoral outcomes. Finally, with data from original surveys of local elites and constituents, I provide evidence for why local roots and embeddedness matter in the local electoral context. This work offers new insights into the electoral dynamics of local politics, underscoring the importance of community ties for how constituents perceive officials and how candidates present themselves.
 :::
 
