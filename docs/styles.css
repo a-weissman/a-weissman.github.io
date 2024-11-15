@@ -63,7 +63,7 @@ footer {
 }
 
 /* Add responsive behavior */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .footer-image {
     width: 150px;
     height: 200px;
