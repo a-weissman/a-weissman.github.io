@@ -37,4 +37,28 @@
   border-color: #1e90ff; /* Blue border on hover */
 }
 
+footer {
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.footer-image {
+  max-width: 200px;
+  height: auto;
+}
+
+.caption {
+  width: 100%;
+  text-align: center;
+  margin-top: .5rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
