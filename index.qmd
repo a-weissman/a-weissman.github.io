@@ -10,7 +10,6 @@ format:
 
 ![](images/Headshot.png){.circular-image}
 
-# Anna Weissman {.center-title}
 
 ::: about-text
 I am a PhD candidate in the Department of Political Science at the University of California, Berkeley. Starting in Fall 2025, I will join the Center for the Study of Democratic Politics at Princeton University as a Postdoctoral Research Associate.
