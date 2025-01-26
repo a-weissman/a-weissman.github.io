@@ -15,7 +15,7 @@
 .about-text {
   text-align: left-aligned; /* Ensures the text is left-aligned */
   margin: 0 auto;
-  max-width: 700px; /* Optional: sets a max width to make the text easier to read */
+  max-width: 800px; /* Optional: sets a max width to make the text easier to read */
   padding: 1em; /* Optional: adds some padding around the text */
 }
 
