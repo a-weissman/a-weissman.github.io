@@ -4768,6 +4768,27 @@ width: 150px;
 height: 200px;
 }
 }
+
+.callout {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+padding: 0 !important;
+}
+
+.callout-title {
+font-weight: bold;
+cursor: pointer;
+}
+.callout-title::before {
+content: "▶ "; 
+display: inline-block;
+margin-right: 5px;
+transition: transform 0.2s ease;
+}
+.callout[open] .callout-title::before {
+transform: rotate(90deg); 
+}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </style>
 </head>

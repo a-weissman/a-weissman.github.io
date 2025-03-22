@@ -12,4 +12,3 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 </iframe>
 
 You can also view or download my CV as a PDF by clicking [here](Weissman_CV_March2025.pdf).
-

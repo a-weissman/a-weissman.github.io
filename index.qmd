@@ -10,6 +10,7 @@ format:
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 ---
 
+```{=html}
 <style>
 .profile-image {
   float: left;
@@ -21,21 +22,22 @@ format:
 }
 
 </style>
+```
 
 ![](images/Headshot.png){.profile-image}
 
 ::: about-text
 I am a PhD candidate in the Department of Political Science at the University of California, Berkeley. Starting in Fall 2025, I will join the Center for the Study of Democratic Politics at Princeton University as a Postdoctoral Research Associate.
 
-My research explores representation in American Politics, considering both what shapes elected officials' decision-making and how constituents perceive their own representation. One strand of my work focuses on understanding conflict in local governance, with particular attention to small, exurban municipalities. Another branch of my work centers on descriptive representation at the national level. My research is either published or forthcoming in the *Journal of Politics* and the *Journal of Political Institutions and Political Economy*.
+My research explores representation in American Politics. I am particularly interested in who holds decision-making power and the implications for both policy outcomes and public attitudes towards representatives. One strand of my work focuses on local governance, with attention to understudied small-town and rural municipalities. Another branch of my research investigates attitudes about descriptive representation at the national level. My work is either published or forthcoming in the *Journal of Politics* and the *Journal of Political Institutions and Political Economy*.
 
-Prior to Berkeley, I received a B.A. in Political Science, Philosophy, and German from Tufts University. Subsequently, I spent three years as a research associate in the Political Science department at MIT, working with scholars in both American and Comparative politics.
+Prior to graduate school, I was a research associate in the Political Science department at MIT, working with scholars in both American and Comparative politics. I hold a B.A. in Political Science, Philosophy, and German from Tufts University. 
+
 :::
 
-<div style="clear: both;"></div>
+::: {style="clear: both;"}
+:::
 
-<div style="text-align: center;">
-<a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a>
-<a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
-</div>
-
+::: {style="text-align: center;"}
+<a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
+:::
