@@ -8,10 +8,10 @@ format:
 ## Replication Data
 
 "Descriptive Representation in an Era of Polarization", Harvard Dataverse\
-<https://doi.org/10.7910/DVN/XTBKSC>
+<a href="https://doi.org/10.7910/DVN/XTBKSC" target="_blank">https://doi.org/10.7910/DVN/XTBKSC</a>
 
 "When Do Local Interest Groups Participate in the Housing Entitlement Process?", Harvard Dataverse\
-<https://doi.org/10.7910/DVN/DWZWDB>
+<a href="https://doi.org/10.7910/DVN/DWZWDB" target="_blank">https://doi.org/10.7910/DVN/DWZWDB</a>
 
 ## Datasets
 
