@@ -15,4 +15,4 @@ format:
 
 ## Datasets
 
-Characteristics of Members of Congress from the 110-116th Congress: [MCs_110-116](https://github.com/a-weissman/MCs_110-116)
+Characteristics of Members of Congress from the 110-116th Congress: <a href="https://github.com/a-weissman/MCs_110-116" target="_blank">MCs_110-116</a>
