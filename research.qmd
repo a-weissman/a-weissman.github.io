@@ -8,7 +8,7 @@ format:
 ## Peer-Reviewed Articles
 
 
-\normalsize \[1\] Anna Weissman (2025), **"Descriptive Representation in an Era of Polarization"**, *The Journal of Politics*: Vol. 87, No. 3. <a href="https://doi.org/10.1086/732961" target="_blank">https://doi.org/10.1086/732961</a>
+\normalsize Anna Weissman (2025), **"Descriptive Representation in an Era of Polarization"**, *The Journal of Politics*: Vol. 87, No. 3. <a href="https://doi.org/10.1086/732961" target="_blank">https://doi.org/10.1086/732961</a>
 <details>
 <summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
 
@@ -17,7 +17,7 @@ Studies of descriptive representation find that voters more positively evaluate 
 </details>
 
 
-\normalsize \[2\] Michael Hankinson, Asya Magazinnik and Anna Weissman (2024), **"When Do Local Interest Groups Participate in the Housing Entitlement Process?"**, *Journal of Political Institutions and Political Economy*: Vol. 5: No. 1, pp 47-69. <a href="http://dx.doi.org/10.1561/113.00000093" target="_blank">http://dx.doi.org/10.1561/113.00000093</a>
+\normalsize Michael Hankinson, Asya Magazinnik and Anna Weissman (2024), **"When Do Local Interest Groups Participate in the Housing Entitlement Process?"**, *Journal of Political Institutions and Political Economy*: Vol. 5: No. 1, pp 47-69. <a href="http://dx.doi.org/10.1561/113.00000093" target="_blank">http://dx.doi.org/10.1561/113.00000093</a>
 <details>
 <summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
 
@@ -28,7 +28,7 @@ Local governments control a hidden flow of economic goods that never appear on c
 
 ## Working Papers & Works in Progress
 
-\normalsize \[1\] **"As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color"**, with Anna Mikkelborg (invited to revise and resubmit)
+**"As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color"**, with Anna Mikkelborg (invited to revise and resubmit)
 <details>
 <summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
 
@@ -37,7 +37,7 @@ Recent research shows that white Democrats have become more approving of politic
 </details>
 
 
-\normalsize  \[2\] **"When Partisanship Matters in Local Politics"**
+**"When Partisanship Matters in Local Politics"**
 <details>
 <summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
 
@@ -45,7 +45,7 @@ Recent scholarship challenges the traditional view that partisanship has little 
 
 </details>
 
-\normalsize  \[3\] **"Local Roots in Local Politics"**
+**"Local Roots in Local Politics"**
 <details>
 <summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
 
@@ -53,16 +53,10 @@ How do geographic ties affect democratic representation? This question has been 
 
 </details>
 
-\normalsize  \[4\] **"Rootedness, Preservation, and Land Use Politics"**
-<details>
-<summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
-
-Opposition to housing development is often attributed to material self-interest or the desire to exclude certain groups, but recent work suggests that residents may resist growth to preserve the physical or social character of their communities. I investigate whether embeddedness in place, measured through indicators such as residency tenure and birthplace, is associated with more preservationist land use preferences, and whether that relationship depends on the type of place in which someone lives. Using original survey data from 991 adults across rural, suburban, and urban America, I find that rootedness in a place does predict restrictive attitudes, but the strength and direction of this relationship varies by context. Different embeddedness indicators are tied to greater opposition to change across rural, urban, and suburban municipalities. These findings suggest that local housing politics are shaped not only by material self-interest, but also by how people experience and understand the places they call home. 
-
-</details>
+**"Rootedness, Preservation, and Land Use Politics"**
 
 
-\normalsize \[5\] **"How Local Officials (Mis)perceive the Politics and Economics of Growth"**, with David Broockman and Christopher Elmendorf
+**"How Local Officials (Mis)perceive the Politics and Economics of Growth"**, with David Broockman and Christopher Elmendorf
 
-\normalsize \[6\] **"Measuring Place-Based Attachment and its Implications: Evidence from the Politics of Growth and Land Use"**, with Jasmine English
+**"Measuring Place-Based Attachment and its Implications: Evidence from the Politics of Growth and Land Use"**, with Jasmine English
 
