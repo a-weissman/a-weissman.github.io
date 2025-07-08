@@ -27,9 +27,9 @@ format:
 ![](images/Headshot.png){.profile-image}
 
 ::: about-text
-I am a PhD candidate in the Department of Political Science at the University of California, Berkeley. Starting in Fall 2025, I will join the Center for the Study of Democratic Politics at Princeton University as a Postdoctoral Research Associate.
+Starting in September 2025, I will join the Center for the Study of Democratic Politics at Princeton University as a Postdoctoral Research Associate. I received my PhD from the Department of Political Science at the University of California, Berkeley in 2025. 
 
-My research explores representation in American Politics. I am particularly interested in who holds decision-making power and the implications for both policy outcomes and public attitudes towards representatives. One strand of my work focuses on local governance, with attention to understudied small-town and rural municipalities. Another branch of my research investigates attitudes about descriptive representation at the national level. My work is published in the *Journal of Politics* and the *Journal of Political Institutions and Political Economy*.
+My research focuses on representation in American politics. I am particularly interested in who holds decision-making power and the implications for both policy outcomes and public attitudes toward representatives. My current agenda centers on local governance. In my dissertation and book project, I examine how place type and individuals’ connections to specific communities shape who governs, which issues become salient, and what positions officials take on local policy. Relatedly, I study municipal decision-making around land-use policy. Another branch of my research investigates attitudes about descriptive representation at the national level. My work is published in the *Journal of Politics* and the *Journal of Political Institutions and Political Economy*.
 
 Prior to graduate school, I was a research associate in the Political Science department at MIT, working with scholars in both American and Comparative politics. I hold a B.A. in Political Science, Philosophy, and German from Tufts University.
 :::
