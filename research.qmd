@@ -41,7 +41,7 @@ Recent research shows that white Democrats have become more approving of politic
 <details>
 <summary><strong><span style="font-size:0.8em">Abstract</span></strong></summary>
 
-Recent scholarship challenges the traditional view that partisanship has little influence on local governance, showing that officials' party affiliation affects municipal decision-making. However, the prevailing explanations for why partisanship matters often assume conditions present only in certain types of municipalities. I argue that partisanship matters more in larger cities, where diverse electorates and more professionalized legislators create the context for partisan division, while smaller municipalities focus on managerial concerns with limited partisan conflict. Using local council meeting transcripts, a novel dataset of candidate statements, and an original survey of 1,280 elected officials, I find that partisan divides emerge primarily in larger cities on nationally salient issues, whereas smaller municipalities show little evidence of partisan policymaking. These findings bridge perspectives from early work and recent scholarship by demonstrating that partisan influence in local governance is context-dependent. This research refines our understanding of when and why national political dynamics shape local governance. 
+Recent scholarship challenges the traditional view that partisanship has little influence on local governance, showing that officials' party affiliation affects municipal decision-making. However, the prevailing explanations for why partisanship matters often assume conditions present only in certain types of municipalities. I argue that partisanship matters more in larger cities, where the scope of governance creates the context for partisan division, while smaller municipalities focus on managerial concerns with limited partisan conflict. Using local council meeting transcripts, a novel dataset of candidate statements, and an original survey of 1,280 elected officials, I find that partisan divides emerge primarily in larger cities on nationally salient issues, whereas smaller municipalities show little evidence of partisan policymaking. These findings bridge perspectives from early work and recent scholarship by demonstrating that partisan influence in local governance is context-dependent. This research refines our understanding of when and why national political dynamics impact local governance. 
 
 </details>
 
@@ -53,8 +53,7 @@ How do geographic ties structure democratic representation? While scholars have 
 
 </details>
 
-**"Rootedness, Preservation, and Land Use Politics"**
-
+**"Rootedness, Place, and Preservation"**
 
 **"How Local Officials (Mis)perceive the Politics and Economics of Growth"**, with David Broockman and Christopher Elmendorf
 
