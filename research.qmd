@@ -39,6 +39,16 @@ Recent research shows that white Democrats have become more approving of politic
 
 </details>
 
+**"Local Roots in Local Politics"**
+
+<details>
+
+<summary><strong>[Abstract]{style="font-size:0.8em"}</strong></summary>
+
+Decision-making in a municipal government demands deep knowledge of the town or city, but studies of local politics largely overlook the role of geographic ties in local representation. I argue that local roots function as a political qualification for local office, shaping who runs, who wins, and whose interests are represented. To support this argument, I draw on an original dataset of campaign statements, linked voter file and candidate records, and nationwide surveys of elected officials and the public. I find that nearly all candidates highlight their local connections, and most have lived in their municipalities for decades. These patterns are consistent across municipality size and stand in stark contrast to the more mobile general electorate, particularly in larger cities. However, regardless of constituents' own residency tenure, they view rootedness as a signal of credibility. Simultaneously, they perceive differences in long-term residents' and newcomers' policy preferences. This means that despite the favorability of rooted candidates, their dominance in office may lead to the marginalization of more transient constituents' views. These findings reveal how connection to place structures who governs, and by extension, whose interests are heard.
+
+</details>
+
 **"When Partisanship Matters in Local Politics"**
 
 <details>
@@ -46,16 +56,6 @@ Recent research shows that white Democrats have become more approving of politic
 <summary><strong>[Abstract]{style="font-size:0.8em"}</strong></summary>
 
 Recent scholarship challenges the traditional view that partisanship has little influence on local governance, showing that officials' party affiliation affects municipal decision-making. However, the prevailing explanations for why partisanship matters often assume conditions present only in certain types of municipalities. I argue that partisanship matters more in larger cities, where the scope of governance creates the context for partisan division, while smaller municipalities focus on managerial concerns with limited partisan conflict. Using local council meeting transcripts, a novel dataset of candidate statements, and an original survey of 1,280 elected officials, I find that partisan divides emerge primarily in larger cities on nationally salient issues, whereas smaller municipalities show little evidence of partisan policymaking. These findings bridge perspectives from early work and recent scholarship by demonstrating that partisan influence in local governance is context-dependent. This research refines our understanding of when and why national political dynamics impact local governance.
-
-</details>
-
-**"Local Roots in Local Politics"**
-
-<details>
-
-<summary><strong>[Abstract]{style="font-size:0.8em"}</strong></summary>
-
-How do geographic ties structure democratic representation? While scholars have explored the role of legislators’ roots at higher levels of government, this question remains largely overlooked in municipal governance. Yet, local policymaking demands deep place-based knowledge. Using original datasets, including campaign statements, linked voter and candidate records, and nationwide surveys of local elites and the public, I show that local roots are central to understanding who runs for office, who serves, and how this shapes local representation. Nearly all candidates highlight their local connections, and most have lived in their municipalities for decades. As a result, long-term residents are descriptively overrepresented. However, regardless of constituents' own tenure, they view rootedness as a signal of credibility. Simultaneously, they perceive differences in long-term residents' and newcomers' policy preferences, meaning rooted candidates are viewed as favorable and their dominance may lead to the marginalization of more transient constituents' views. These findings reveal how a largely ignored dimension of local representation structures who governs, and by extension, whose interests are heard.
 
 </details>
 
