@@ -19,23 +19,11 @@ body::before {
   z-index: -1;
 }
 
-/*@media (max-width: 768px) {
+@media (max-width: 768px) {
   body {
     background-attachment: scroll;
   }
-}*/
-
-@media (max-width: 768px) {
-  body {
-    background-attachment: scroll; 
-  }
-
-  body::before {
-    background: scroll;
-    position: absolute;  /* Prevent layout bugs on mobile */
-  }
 }
-
 
 .image-caption {
   position: fixed;
