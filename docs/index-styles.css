@@ -23,7 +23,13 @@ body::before {
   body {
     background-attachment: scroll;
   }
+
+  body::before {
+    background: rgba(255, 255, 255, 0.95); /* More opaque for readability */
+    position: absolute;  /* Prevent layout bugs on mobile */
+  }
 }
+
 
 .image-caption {
   position: fixed;
