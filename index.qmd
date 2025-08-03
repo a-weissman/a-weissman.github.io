@@ -20,7 +20,6 @@ format:
   margin-right: 20px;
   margin-top: 5px;
   display: block;
-  /*border-radius: 5%;*/
 }
 
 </style>
