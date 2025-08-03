@@ -2,8 +2,11 @@
 title: "Data"
 format:
   html:
-    embed-resources: true  
+    theme: cosmo
+    css: styles.css
+    embed-resources: true
 ---
+
 
 ## Replication Data
 
