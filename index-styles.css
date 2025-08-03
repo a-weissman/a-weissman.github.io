@@ -25,7 +25,8 @@ body::before {
   }
 
   body::before {
-    position: absolute;
+    background: rgba(255, 255, 255, 0.95); /* More opaque for readability */
+    position: absolute;  /* Prevent layout bugs on mobile */
   }
 }
 
