@@ -16,7 +16,7 @@
   text-align: left-aligned; /* Ensures the text is left-aligned */
   margin: 0 auto;
   max-width: 800px; /* Optional: sets a max width to make the text easier to read */
-  padding: 1em; /* Optional: adds some padding around the text */
+  padding: 0em; /* Optional: adds some padding around the text */
   font-size: 0.95rem;
   color: #222222;
 }

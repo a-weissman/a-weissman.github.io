@@ -1,4 +1,4 @@
-body {
+/*body {
   background-image: url('images/lake2.png');
   background-size: cover;
   background-attachment: fixed;
@@ -17,7 +17,7 @@ body::before {
     rgba(255,255,255,0.85) 60%,
     rgba(0,0,0,0.5) 100%);
   z-index: -1;
-}
+}*/
 
 @media (max-width: 768px) {
   body {
@@ -30,7 +30,7 @@ body::before {
   bottom: 10px;
   right: 15px;
   font-size: 0.75em;
-  color: rgba(200, 200, 200, 0.7); /* light, subtle text */
+  color: rgba(200, 200, 200, 0.5); /* light, subtle text */
   font-style: italic;
   z-index: 1;
   pointer-events: none; /* ensures it doesn’t interfere with clicks */
