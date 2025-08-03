@@ -23,7 +23,12 @@ body::before {
   body {
     background-attachment: scroll;
   }
+
+  body::before {
+    position: absolute;
+  }
 }
+
 
 .image-caption {
   position: fixed;
