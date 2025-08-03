@@ -24,3 +24,24 @@ body::before {
     background-attachment: scroll;
   }
 }
+
+.image-caption {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  font-size: 0.75em;
+  color: rgba(200, 200, 200, 0.7); /* light, subtle text */
+  font-style: italic;
+  z-index: 1;
+  pointer-events: none; /* ensures it doesn’t interfere with clicks */
+}
+
+/* .banner-image {
+  width: 100%;
+  height: 300px; /* adjust to your desired banner height */
+  /*background-image: url('images/lake2.png'); /* path to your banner image */
+  /*background-size: cover;
+  /*background-position: center;
+  /*background-repeat: no-repeat;
+  /*margin-bottom: 30px; /* spacing below the banner */
+/*} /* 
