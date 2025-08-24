@@ -18,7 +18,7 @@
   max-width: 800px; /* Optional: sets a max width to make the text easier to read */
   padding: 0em; /* Optional: adds some padding around the text */
   font-size: 0.95rem;
-  color: #222222;
+  color: #black;
 }
 
 .button {
