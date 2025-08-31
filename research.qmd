@@ -55,8 +55,10 @@ Recent research shows that white Democrats have become more approving of politic
 <details>
   <summary>
     <strong>[Abstract]{style="font-size:0.8em"}</strong>
-    <a href="papers/Weissman_Roots_2025.pdf" target="_blank" title="Download PDF" style="margin-left:8px;">
-      <i class="fa-solid fa-file-pdf"></i>
+    <a href="https://www.dropbox.com/scl/fi/l8ejn2t02y6jpzqvdw923/Weissman_Roots_LatestDraft.pdf?rlkey=qmij2kdhb4sa5eqf3f1a45acl&st=vw2xomcs&dl=0"
+       target="_blank" rel="noopener noreferrer"
+       title="Latest draft" style="margin-left:8px;">
+      <i class="fa-brands fa-dropbox"></i>
     </a>
   </summary>
 
