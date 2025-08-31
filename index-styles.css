@@ -1,5 +1,53 @@
 body {
-  background-image: url('images/lake2.png');
+  /* Your existing body rule, but swap out only the background-image line */
+body {
+  /* Fallback (keeps everything working even if image-set isn't supported) */
+  background-image: url('images/lake2-1600.jpg'); /* or keep your PNG if that's what you have */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+}
+
+/* Add this RIGHT AFTER the body rule */
+@supports (background-image: image-set(url("x") 1x)) {
+  body {
+    background-image: image-set(
+      url('images/lake2-1600.avif') type('image/avif') 1x,
+      url('images/lake2-2400.avif') type('image/avif') 2x,
+      url('images/lake2-1600.webp') type('image/webp') 1x,
+      url('images/lake2-2400.webp') type('image/webp') 2x,
+      url('images/lake2-1600.jpg') 1x,
+      url('images/lake2-2400.jpg') 2x
+    );
+  }
+}
+
+/* Older Safari prefix */
+@supports (background-image: -webkit-image-set(url("x") 1x)) {
+  body {
+    background-image: -webkit-image-set(
+      url('images/lake2-1600.avif') type('image/avif') 1x,
+      url('images/lake2-2400.avif') type('image/avif') 2x,
+      url('images/lake2-1600.webp') type('image/webp') 1x,
+      url('images/lake2-2400.webp') type('image/webp') 2x,
+      url('images/lake2-1600.jpg') 1x,
+      url('images/lake2-2400.jpg') 2x
+    );
+  }
+}
+
+/* Optional: send a smaller file to phones, keeps parallax + fade unchanged */
+@media (max-width: 768px) {
+  body {
+    background-image: image-set(
+      url('images/lake2-1200.avif') type('image/avif') 1x,
+      url('images/lake2-1200.webp') type('image/webp') 1x,
+      url('images/lake2-1200.jpg') 1x
+    );
+  }
+}
+
   background-size: cover;
   background-attachment: fixed;
   position: relative;

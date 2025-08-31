@@ -44,5 +44,5 @@ Prior to graduate school, I was a research associate in the Political Science de
 <a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
 :::
 
-<div class="image-caption">Image of Cooper Lake in Woodstock, NY</div> 
+
 
