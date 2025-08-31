@@ -25,6 +25,20 @@ body::before {
   }
 }*/
 
+@media (hover: none) and (pointer: coarse), (prefers-reduced-motion: reduce) {
+  body {
+    background-attachment: scroll;            /* avoid jank; image may not fix on iOS anyway */
+    background-color: #fafafa;                /* gentle light backdrop under your overlay */
+  }
+  body::before {
+    /* lighter veil so it reads as clean white, not dingy grey */
+    background: linear-gradient(to bottom,
+      rgba(255,255,255,0.97) 0%,
+      rgba(255,255,255,0.90) 60%,
+      rgba(255,255,255,0.88) 100%);
+  }
+}
+
 
 .image-caption {
   position: fixed;
