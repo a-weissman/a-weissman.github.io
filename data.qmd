@@ -7,7 +7,6 @@ format:
     embed-resources: true
 ---
 
-
 ## Replication Data
 
 "Descriptive Representation in an Era of Polarization", Harvard Dataverse\

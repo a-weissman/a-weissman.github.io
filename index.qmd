@@ -2,15 +2,16 @@
 title: ""
 format:
   html:
-    css: 
+    css:
       - styles.css
       - index-styles.css
     include-in-header:
       text: |
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
 ---
 
- <!--- <div class="banner-image"></div> ---> 
+<!--- <div class="banner-image"></div> --->
 
 ```{=html}
 <style>
@@ -18,7 +19,7 @@ format:
   float: left;
   width: 150px;
   margin-right: 20px;
-  margin-top: 5px;
+  margin-top: 20px;
   display: block;
 }
 
@@ -28,19 +29,15 @@ format:
 ![](images/anna_pic_woods.png){.profile-image}
 
 ::: about-text
-Welcome! 
+Welcome!
 
 I am a Postdoctoral Fellow at the <a href="https://csdp.princeton.edu/"
    target="_blank" rel="noopener"
-   style="text-decoration:none; color:#1e3a8a;">
-  Center for the Study of Democratic Politics
-</a> at Princeton University. In summer 2025, I received my PhD from the <a href="https://polisci.berkeley.edu/"
+   style="text-decoration:none; color:#1e3a8a;"> Center for the Study of Democratic Politics </a> at Princeton University. In summer 2025, I received my PhD from the <a href="https://polisci.berkeley.edu/"
    target="_blank" rel="noopener"
-   style="text-decoration:none; color:#1e3a8a;">
-  Department of Political Science
-</a> at the University of California, Berkeley.
+   style="text-decoration:none; color:#1e3a8a;"> Department of Political Science </a> at the University of California, Berkeley.
 
-My research is broadly focused on representation, local political economy, and political geography. Specifically, I study who holds power in American local governments, how that drives decision-making, and whose interests are reflected in policy. My current work centers on municipal officials’ embeddedness in their communities and the implications for policy outcomes, particularly relating to land use. I am especially interested in these dynamics in small-town and rural America. Another branch of my research investigates attitudes about descriptive representation at the national level. Together, my research shows how place, identities, and institutions structure political power and representation at multiple levels of government. 
+My research is broadly focused on representation, local political economy, and political geography. Specifically, I study who holds power in American local governments, how that drives decision-making, and whose interests are reflected in policy. My current work centers on municipal officials’ embeddedness in their communities and the implications for policy outcomes, particularly relating to land use. I am especially interested in these dynamics in small-town and rural America. Another branch of my research investigates attitudes about descriptive representation at the national level. Together, my research shows how place, identities, and institutions structure political power and representation at multiple levels of government.
 
 My work uses both descriptive and causal methods, including but not limited to causal inference designs for observational data, text analysis, and original surveys and survey experiments. My research is published in the *Journal of Politics* and the *Journal of Political Institutions and Political Economy*.
 
@@ -53,6 +50,3 @@ Prior to graduate school, I was a research associate in the Political Science de
 ::: {style="text-align: center;"}
 <a href="mailto:anna_weissman@berkeley.edu" class="button"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
 :::
-
-
-
