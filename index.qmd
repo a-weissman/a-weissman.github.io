@@ -26,7 +26,7 @@ format:
 </style>
 ```
 
-![](images/anna_pic_woods.png){.profile-image}
+![](images/Headshot.png){.profile-image}
 
 ::: about-text
 Welcome!
