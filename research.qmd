@@ -27,9 +27,7 @@ Local governments control a hidden flow of economic goods that never appear on c
 
 </details>
 
-## Working Papers & Works in Progress
-
-**"As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color"**, with Anna Mikkelborg (invited to revise and resubmit)
+**"As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color"**, with Anna Mikkelborg (conditionally accepted at *Political Behavior*)
 
 <details>
 
@@ -38,6 +36,8 @@ Local governments control a hidden flow of economic goods that never appear on c
 Recent research shows that white Democrats have become more approving of politicians of color compared to white politicians in the last decade, in contrast with past research indicating that white voters typically prefer white representatives. White voters’ support for politicians of color has long been linked to their racial attitudes, implying that this change could be a result of white Democrats’ increasing racial liberalism. This mechanism deserves more than speculation, since understanding the cause of this shift influences expectations about its likely durability and broader implications for racial politics. This paper provides evidence of the persistence of this shift and evaluates the most plausible potential mechanisms behind it. We find that racial attitudes are strongly associated with white Democrats’ greater approval of representatives of color at the individual level and over time, while there is little evidence that either ideological stereotyping or differences in legislator quality are responsible. These results provide evidence that white Democrats' increasing racial liberalism influences consequential political opinions like support for representatives of color.
 
 </details>
+
+## Working Papers & Works in Progress
 
 **"Local Roots in Local Politics"**
 
