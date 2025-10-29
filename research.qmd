@@ -17,6 +17,17 @@ Studies of descriptive representation find that voters more positively evaluate 
 
 </details>
 
+\normalsize Anna Weissman and Anna Mikkelborg, (2025) **"As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color"**, *Political Behavior*, <a href="https://doi.org/10.1007/s11109-025-10098-4" target="_blank">https://doi.org/10.1007/s11109-025-10098-4</a>
+
+<details>
+
+<summary><strong>[Abstract]{style="font-size:0.8em"}</strong> <a href="papers/Weissman&Mikkelborg_Behavior_2025.pdf" target="_blank" title="Download PDF" style="margin-left:8px;"> <i class="fa-solid fa-file-pdf"></i> </a></summary>
+
+Recent research shows that white Democrats have become more approving of politicians of color compared to white politicians in the last decade, in contrast with past research indicating that white voters typically prefer white representatives. White voters’ support for politicians of color has long been linked to their racial attitudes, implying that this change could be a result of white Democrats’ increasing racial liberalism. This mechanism deserves more than speculation, since understanding the cause of this shift influences expectations about its likely durability and broader implications for racial politics. This paper provides evidence of the persistence of this shift and evaluates the most plausible potential mechanisms behind it. We find that racial attitudes are strongly associated with white Democrats’ greater approval of representatives of color at the individual level and over time, while there is little evidence that either ideological stereotyping or differences in legislator quality are responsible. These results provide evidence that white Democrats' increasing racial liberalism influences consequential political opinions like support for representatives of color.
+
+</details>
+
+
 \normalsize Michael Hankinson, Asya Magazinnik and Anna Weissman (2024), **"When Do Local Interest Groups Participate in the Housing Entitlement Process?"**, *Journal of Political Institutions and Political Economy*: Vol. 5: No. 1, pp 47-69. <a href="http://dx.doi.org/10.1561/113.00000093" target="_blank">http://dx.doi.org/10.1561/113.00000093</a>
 
 <details>
@@ -27,15 +38,6 @@ Local governments control a hidden flow of economic goods that never appear on c
 
 </details>
 
-\normalsize Anna Weissman and Anna Mikkelborg, **"As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color"**, *forthcoming in Political Behavior*
-
-<details>
-
-<summary><strong>[Abstract]{style="font-size:0.8em"}</strong> <a href="papers/Weissman&Mikkelborg_Behavior_Forthcoming.pdf" target="_blank" title="Download PDF" style="margin-left:8px;"> <i class="fa-solid fa-file-pdf"></i> </a></summary>
-
-Recent research shows that white Democrats have become more approving of politicians of color compared to white politicians in the last decade, in contrast with past research indicating that white voters typically prefer white representatives. White voters’ support for politicians of color has long been linked to their racial attitudes, implying that this change could be a result of white Democrats’ increasing racial liberalism. This mechanism deserves more than speculation, since understanding the cause of this shift influences expectations about its likely durability and broader implications for racial politics. This paper provides evidence of the persistence of this shift and evaluates the most plausible potential mechanisms behind it. We find that racial attitudes are strongly associated with white Democrats’ greater approval of representatives of color at the individual level and over time, while there is little evidence that either ideological stereotyping or differences in legislator quality are responsible. These results provide evidence that white Democrats' increasing racial liberalism influences consequential political opinions like support for representatives of color.
-
-</details>
 
 ## Working Papers & Works in Progress
 
