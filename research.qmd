@@ -27,7 +27,6 @@ Recent research shows that white Democrats have become more approving of politic
 
 </details>
 
-
 \normalsize Michael Hankinson, Asya Magazinnik and Anna Weissman (2024), **"When Do Local Interest Groups Participate in the Housing Entitlement Process?"**, *Journal of Political Institutions and Political Economy*: Vol. 5: No. 1, pp 47-69. <a href="http://dx.doi.org/10.1561/113.00000093" target="_blank">http://dx.doi.org/10.1561/113.00000093</a>
 
 <details>
@@ -38,18 +37,21 @@ Local governments control a hidden flow of economic goods that never appear on c
 
 </details>
 
-
 ## Working Papers & Works in Progress
 
 **"Local Roots in Local Politics"**
 
 <details>
 
+<!----
 <summary><strong>[Abstract]{style="font-size:0.8em"}</strong> <a href="https://www.dropbox.com/scl/fi/l8ejn2t02y6jpzqvdw923/Weissman_Roots_LatestDraft.pdf?rlkey=qmij2kdhb4sa5eqf3f1a45acl&st=vw2xomcs&dl=0 "
        target="_blank" rel="noopener noreferrer"
        title="Latest draft" style="margin-left:8px;"> <i class="fa-brands fa-dropbox"></i> </a></summary>
+--->
 
-How does place-based connection influence who holds power in local politics? Given local officials must navigate place-specific institutions and community needs, I theorize that deep local roots serve as a qualification for municipal candidates, with important consequences for who governs and whose interests are represented. Using a novel dataset of campaign statements, linked voter file and candidate records, and original nationwide surveys of elected officials and the public, I demonstrate that local roots pervasively shape municipal elections, which is reflected in who runs for office, how they present themselves to voters, whom voters prefer, and who ultimately wins. While officials tend to be rooted in their communities, I find that constituents are more mobile, making deeply rooted residents descriptively overrepresented, especially in cities with many newcomers. This translates into substantive underrepresentation for newcomers when long- and short-term residents diverge in their local policy preferences. I show that this divergence is likely, especially on land use issues. Together, these findings highlight a central, previously overlooked role for local roots in local politics and policy.
+<summary><strong>[Abstract]{style="font-size:0.8em"}</strong> <a></a></summary>
+
+Access to power often depends on informal judgments of who is qualified to govern. Given that local officials primarily navigate place-specific institutions and issues, I argue that a unique logic of political selection operates in municipal politics. Specifically, I advance a theory of local roots as a central criterion of local credibility. Using a novel dataset of campaign statements, linked voter file and candidate records, and original nationwide surveys of elected officials and the public, I demonstrate that local roots pervasively shape who runs for office, how they present themselves to voters, who ultimately governs, and how voters perceive those in power. While individuals value the presence of long-term residents in office, the overrepresentation of rooted constituents may translate into substantive underrepresentation for newcomers when long- and short-term residents diverge in their policy preferences. These findings highlight a previously overlooked dimension of who governs at the local level. 
 
 </details>
 
@@ -63,8 +65,10 @@ Recent scholarship challenges the traditional view that partisanship has little 
 
 </details>
 
-**"How Local Officials (Mis)perceive the Politics and Economics of Growth"**, with David Broockman and Christopher Elmendorf
+**"How Local Officials (Mis)perceive the Politics and Economics of Growth"** (with David Broockman and Christopher Elmendorf)
 
 **"Measuring Place-Based Connection and its Implications: Evidence from the Politics of Growth and Land Use"**
+
+**"New in Town? An Experiment on Local Legislators’ Responsiveness to Newcomers and Locals"** (with Gustavo Novoa)
 
 Book Project: **"How Place Conditions Local Politics: Understanding Local Power and Decision-Making Beyond Party Lines"**
