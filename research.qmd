@@ -51,7 +51,7 @@ Local governments control a hidden flow of economic goods that never appear on c
 
 <summary><strong>[Abstract]{style="font-size:0.8em"}</strong> <a></a></summary>
 
-Access to power often depends on informal judgments of who is qualified to govern. Given that local officials primarily navigate place-specific institutions and issues, I argue that a unique logic of political selection operates in municipal politics. Specifically, I advance a theory of local roots as a central criterion of local credibility. Using a novel dataset of campaign statements, linked voter file and candidate records, and original nationwide surveys of elected officials and the public, I demonstrate that local roots pervasively shape who runs for office, how they present themselves to voters, who ultimately governs, and how voters perceive those in power. While individuals value the presence of long-term residents in office, the overrepresentation of rooted constituents may translate into substantive underrepresentation for newcomers when long- and short-term residents diverge in their policy preferences. These findings highlight a previously overlooked dimension of who governs at the local level. 
+Access to political power often depends on informal judgments of who is qualified to govern. Given that local officials primarily navigate place-specific institutions and issues, I argue that a distinct logic of political selection operates in municipal politics. I advance a theory of local roots as a central criterion of local credibility. Using a novel dataset of municipal campaign statements, linked voter file and candidate records, and original nationwide surveys of elected officials and constituents, I show that local roots pervasively shape who runs for office, how candidates present themselves to voters, who ultimately governs, and how voters perceive those in power. While individuals value the presence of long-term residents in office, the overrepresentation of rooted constituents may translate into substantive underrepresentation for newcomers when long- and short-term residents diverge in their policy preferences. These findings illustrate how widely accepted informal qualifications can generate democratic inequality upstream.
 
 </details>
 
@@ -65,9 +65,9 @@ Recent scholarship challenges the traditional view that partisanship has little 
 
 </details>
 
-**"How Local Officials (Mis)perceive the Politics and Economics of Growth"** (with David Broockman and Christopher Elmendorf)
-
 **"Measuring Place-Based Connection and its Implications: Evidence from the Politics of Growth and Land Use"**
+
+**"How Local Officials (Mis)perceive the Politics and Economics of Growth"** (with David Broockman and Christopher Elmendorf)
 
 **"New in Town? An Experiment on Local Legislators’ Responsiveness to Newcomers and Locals"** (with Gustavo Novoa)
 
