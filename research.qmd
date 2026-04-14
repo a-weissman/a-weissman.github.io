@@ -86,11 +86,19 @@ Local decision-making is enormously consequential. Yet who runs for and wins loc
 
 <summary><strong>[Abstract]{style="font-size:0.8em"}</strong></summary>
 
-Recent scholarship challenges the traditional view that partisanship has little influence on local governance, showing that officials' party affiliation affects municipal decision-making. However, the prevailing explanations for why partisanship matters often assume conditions present only in certain types of municipalities. I argue that partisanship matters most in large cities, where the scope of governance creates the context for partisan division, while smaller municipalities focus on managerial concerns with limited partisan conflict. Using local council meeting transcripts, a novel dataset of candidate statements, and an original survey of 1,280 elected officials, I find that partisan divides emerge primarily in larger cities on nationally salient issues, whereas smaller municipalities show little evidence of partisan policymaking. These findings bridge perspectives from early work and recent scholarship by demonstrating that partisan influence in local governance is context-dependent. This research refines our understanding of when and why national political dynamics impact local governance. 
+Recent scholarship challenges the traditional view that partisanship has little influence on local governance, showing that officials' party affiliation affects municipal decision-making. However, the explanations for why partisanship matters often assume conditions present only in certain types of municipalities. I argue that partisanship matters most in large cities, where the scope of governance creates the context for partisan division, while smaller municipalities focus on managerial concerns with limited partisan conflict. Using an original survey of 1,280 elected officials, paired with local council meeting transcripts and a novel dataset of candidate statements, I find that partisan divides emerge primarily in larger cities on nationally salient issues, whereas smaller municipalities show little evidence of partisan policymaking. These findings bridge perspectives from early work and recent scholarship by demonstrating that partisan influence in local governance is context-dependent. This research refines our understanding of when and why national political dynamics impact local democracy. 
 
 </details>
 
-**"Measuring Place-Based Connection and its Implications: Evidence from the Politics of Growth and Land Use"**
+**"Place-Based Connection and the Politics of Housing"**
+
+<details>
+
+<summary><strong>[Abstract]{style="font-size:0.8em"}</strong></summary>
+
+Opposition to housing development has long been explained by material self-interest and exclusionary attitudes, but scholars have recently proposed alternatives, such as aesthetic preferences. This paper offers an additional explanation for preservationist attitudes: place-based connection. Material, psychological, and social connections to place can produce an aversion to change that limits growth. Using an original survey of more than 1,000 registered voters across small-town and suburban municipalities with opportunities for growth, I generate six indices of place-based connection that are not strongly associated with one another nor with characteristics such as race, gender, or party. I find that distinct dimensions of place-based connection explain different preservationist attitudes: psychological attachment is the strongest and most consistent predictor, while long-term residency and growing up in a place matter most in growing communities where newcomers are salient. The paper develops a framework for understanding how place-based connection contributes to the politics of growth.
+
+</details>
 
 **"New in Town? An Experiment on Local Legislators’ Responsiveness to Newcomers and Locals"** (with Gustavo Novoa)
 
