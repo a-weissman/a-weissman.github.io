@@ -7,7 +7,7 @@ format:
     embed-resources: true
 ---
 
-## Replication Data
+### [Replication Data]{.underline}
 
 "Descriptive Representation in an Era of Polarization", <a href="https://doi.org/10.7910/DVN/XTBKSC" target="_blank">https://doi.org/10.7910/DVN/XTBKSC</a>
 
@@ -15,6 +15,6 @@ format:
 
 "As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color", <a href="https://doi.org/10.7910/DVN/TPY3PM" target="_blank">https://doi.org/10.7910/DVN/TPY3PM</a>
 
-## Datasets
+### [Datasets]{.underline}
 
 Characteristics of Members of Congress from the 110-116th Congress: <a href="https://github.com/a-weissman/MCs_110-116" target="_blank">MCs_110-116</a>

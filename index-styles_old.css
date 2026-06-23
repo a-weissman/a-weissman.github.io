@@ -1,0 +1,71 @@
+/*body {
+  background-image: url('images/lake2.png');
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}
+*/
+
+body {
+  background-color: #white;
+  position: relative;
+}
+
+/*
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, 
+    rgba(255,255,255,0.97) 0%,
+    rgba(255,255,255,0.85) 80%,
+    rgba(0,0,0,0.05) 100%);
+    rgba(0,0,0,0.5) 100%);
+  z-index: -1;
+}
+*/
+
+/*@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+}*/
+
+@media (hover: none) and (pointer: coarse), (prefers-reduced-motion: reduce) {
+  body {
+    background-attachment: scroll;            /* avoid jank; image may not fix on iOS anyway */
+    background-color: #fafafa;                /* gentle light backdrop under your overlay */
+  }
+  body::before {
+    /* lighter veil so it reads as clean white, not dingy grey */
+    background: linear-gradient(to bottom,
+      rgba(255,255,255,0.97) 0%,
+      rgba(255,255,255,0.90) 60%,
+      rgba(255,255,255,0.88) 100%);
+  }
+}
+
+
+.image-caption {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  font-size: 0.75em;
+  color: rgba(200, 200, 200, 0.5); /* light, subtle text */
+  font-style: italic;
+  z-index: 1;
+  pointer-events: none; /* ensures it doesn’t interfere with clicks */
+}
+
+/* .banner-image {
+  width: 100%;
+  height: 300px; /* adjust to your desired banner height */
+  /*background-image: url('images/lake2.png'); /* path to your banner image */
+  /*background-size: cover;
+  /*background-position: center;
+  /*background-repeat: no-repeat;
+  /*margin-bottom: 30px; /* spacing below the banner */
+/*} /* 

@@ -11,22 +11,15 @@ format:
         <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
 ---
 
-<!--- <div class="banner-image"></div> --->
+::: {.home-layout}
 
-```{=html}
-<style>
-.profile-image {
-  float: left;
-  width: 150px;
-  margin-right: 20px;
-  margin-top: 20px;
-  display: block;
-}
-
-</style>
-```
+::: {.home-sidebar}
 
 ![](images/Headshot.png){.profile-image}
+
+:::
+
+::: {.home-content}
 
 ::: about-text
 Welcome!
@@ -37,7 +30,7 @@ I am a Postdoctoral Fellow at the <a href="https://csdp.princeton.edu/"
    target="_blank" rel="noopener"
    style="text-decoration:none; color:#1e3a8a;"> Local Politics Lab </a> at Harvard as a postdoctoral researcher. In 2027, I will begin as an Assistant Professor of Political Science at Williams College. I received my PhD from the Department of Political Science at the University of California, Berkeley.
 
-My research is broadly focused on representation, local political economy, and political geography. Specifically, I study who holds power in American local governments, how that drives decision-making, and whose interests are reflected in policy. I am especially interested in these dynamics in small-town America. Another branch of my research explores attitudes about descriptive representation. My research is published in the *Journal of Politics*, *Political Behavior*, and the *Journal of Political Institutions and Political Economy*.
+My research is broadly focused on representation, local political economy, and political geography. I study who holds power in American local governments, how that drives decision-making, and whose interests are reflected in policy, with a particular interest in small-town America. Another branch of my research explores attitudes about descriptive representation. My research is published in the *Journal of Politics*, *Political Behavior*, and the *Journal of Political Institutions and Political Economy*.
 
 I hold a B.A. in Political Science, Philosophy, and German from Tufts University. Prior to graduate school, I was a research associate in the Political Science department at MIT.
 
@@ -45,6 +38,12 @@ I hold a B.A. in Political Science, Philosophy, and German from Tufts University
 *I am also part of a research team studying local decision-making. If you are here because you received an email from me, please consider participating. We want to hear your perspective!*
 </em></small>
 :::
+
+
+:::
+
+:::
+
 
 ::: {style="clear: both;"}
 :::
