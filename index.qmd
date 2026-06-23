@@ -50,7 +50,7 @@ I hold a B.A. in Political Science, Philosophy, and German from Tufts University
 :::
 
 ::: {style="text-align: center;"}
-<a href="mailto:aweissman@princeton.edu" class="button"><i class="fas fa-envelope"></i>  aweissman[at]princeton[dot]edu</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
+<a href="mailto:anna_weissman@hks.harvard.edu" class="button"><i class="fas fa-envelope"></i>  anna_weissman[at]hks[dot]harvard[dot]edu</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
 :::
 
 
