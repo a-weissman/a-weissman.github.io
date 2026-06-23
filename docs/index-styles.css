@@ -5,7 +5,7 @@ body {
 
 .home-layout {
   display: grid;
-  grid-template-columns: 200px 600px;
+  grid-template-columns: 200px 650px;
   gap: 40px;
   max-width: 1400px;
   margin: 40px auto;
@@ -57,4 +57,18 @@ body {
     overflow-y: visible;
     padding: 28px 22px;
   }
+}
+
+.sidebar-buttons {
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.sidebar-buttons .button {
+  padding: 5px 10px;
+  font-size: 11px;
+  width: auto;
+  white-space: nowrap;
 }

@@ -17,6 +17,16 @@ format:
 
 ![](images/Headshot.png){.profile-image}
 
+::: {.sidebar-buttons}
+<a href="mailto:anna_weissman@hks.harvard.edu" class="button">
+<i class="fas fa-envelope"></i> Email
+</a>
+
+<a href="https://github.com/a-weissman" class="button">
+<i class="fab fa-github"></i> GitHub
+</a>
+:::
+
 :::
 
 ::: {.home-content}
@@ -48,9 +58,7 @@ I hold a B.A. in Political Science, Philosophy, and German from Tufts University
 ::: {style="clear: both;"}
 :::
 
-::: {style="text-align: center;"}
-<a href="mailto:anna_weissman@hks.harvard.edu" class="button"><i class="fas fa-envelope"></i>  anna_weissman[at]hks[dot]harvard[dot]edu</a> <a href="https://github.com/a-weissman" class="button"><i class="fab fa-github"></i> GitHub</a>
-:::
+
 
 
 
