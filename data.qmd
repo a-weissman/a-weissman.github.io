@@ -7,6 +7,8 @@ format:
     embed-resources: true
 ---
 
+<div style="width: 950px; max-width: none;">
+
 ### [Replication Data]{.underline}
 
 "Descriptive Representation in an Era of Polarization", <a href="https://doi.org/10.7910/DVN/XTBKSC" target="_blank">https://doi.org/10.7910/DVN/XTBKSC</a>
@@ -18,3 +20,5 @@ format:
 ### [Datasets]{.underline}
 
 Characteristics of Members of Congress from the 110-116th Congress: <a href="https://github.com/a-weissman/MCs_110-116" target="_blank">MCs_110-116</a>
+
+</div>
