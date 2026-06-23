@@ -1,10 +1,17 @@
-body {
+/*body {
   background-image: url('images/lake2.png');
   background-size: cover;
   background-attachment: fixed;
   position: relative;
 }
+*/
 
+body {
+  background-color: #white;
+  position: relative;
+}
+
+/*
 body::before {
   content: '';
   position: fixed;
@@ -19,6 +26,7 @@ body::before {
     rgba(0,0,0,0.5) 100%);
   z-index: -1;
 }
+*/
 
 /*@media (max-width: 768px) {
   body {
