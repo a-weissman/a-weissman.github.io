@@ -34,11 +34,11 @@ format:
 ::: about-text
 Welcome!
 
-I am a Postdoctoral Fellow at the <a href="https://csdp.princeton.edu/"
+I am a Postdoctoral Fellow at the <a href="https://cities.harvard.edu/initiatives/local-politics-lab/" 
    target="_blank" rel="noopener"
-   style="text-decoration:none; color:#1e3a8a;"> Center for the Study of Democratic Politics </a> at Princeton University. In 2026-2027, I will join the <a href="https://cities.harvard.edu/initiatives/local-politics-lab/" 
+   style="text-decoration:none; color:#1e3a8a;"> Local Politics Lab </a> at Harvard University. In 2027, I will begin as an Assistant Professor of Political Science at Williams College. Previously, I was a Postdoctoral Fellow at the <a href="https://csdp.princeton.edu/"
    target="_blank" rel="noopener"
-   style="text-decoration:none; color:#1e3a8a;"> Local Politics Lab </a> at Harvard as a postdoctoral researcher. In 2027, I will begin as an Assistant Professor of Political Science at Williams College. I received my PhD from the Department of Political Science at the University of California, Berkeley.
+   style="text-decoration:none; color:#1e3a8a;"> Center for the Study of Democratic Politics </a> at Princeton University. I received my PhD from the Department of Political Science at the University of California, Berkeley.
 
 My research is broadly focused on representation, local political economy, and political geography. I study who holds power in American local governments, how that drives decision-making, and whose interests are reflected in policy, with a particular interest in small-town America. Another branch of my research explores attitudes about descriptive representation. My research is published in the *Journal of Politics*, *Political Behavior*, and the *Journal of Political Institutions and Political Economy*.
 
