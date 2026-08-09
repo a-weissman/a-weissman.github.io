@@ -5,7 +5,7 @@ body {
 
 .home-layout {
   display: grid;
-  grid-template-columns: 200px 650px;
+  grid-template-columns: 250px 650px;
   gap: 40px;
   max-width: 1400px;
   margin: 40px auto;
