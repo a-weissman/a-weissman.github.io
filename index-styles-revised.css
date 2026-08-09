@@ -1,0 +1,135 @@
+body {
+  background-color: #eef1f4;
+  position: relative;
+}
+
+/* Hide the standard Quarto navbar on the home page only. */
+.navbar {
+  display: none;
+}
+
+.home-layout {
+  display: grid;
+  grid-template-columns: 250px 650px;
+  gap: 40px;
+  max-width: 1400px;
+  margin: 40px auto;
+  align-items: start;
+}
+
+.home-sidebar {
+  position: sticky;
+  top: 50px;
+}
+
+.home-name {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0 0 18px 0;
+}
+
+.profile-image {
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0;
+  float: none;
+}
+
+/* center buttons under the actual 200px image */
+.sidebar-buttons {
+  width: 200px;
+  margin-top: 14px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.sidebar-buttons .button {
+  padding: 5px 10px;
+  font-size: 11px;
+  width: auto;
+  white-space: nowrap;
+}
+
+.home-main {
+  min-width: 0;
+}
+
+/* spread page-navigation links farther apart */
+.home-nav {
+  display: flex;
+  gap: 50px;
+  margin: 5px 0 42px 0;
+  font-size: 18px;
+}
+
+.home-nav a {
+  color: #444;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1px;
+}
+
+.home-nav a:hover,
+.home-nav a.active {
+  color: #1e3a8a;
+}
+
+.home-content {
+  max-width: 800px;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: visible;
+}
+
+/* slightly larger than current 14px */
+.home-content p {
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+/* mobile */
+@media (max-width: 768px) {
+  .home-layout {
+    grid-template-columns: 1fr;
+    gap: 34px;
+    width: min(92%, 680px);
+    margin: 32px auto;
+  }
+
+  .home-sidebar {
+    position: static;
+  }
+
+  .home-name {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  .profile-image {
+    width: 180px;
+    margin: 0 auto;
+  }
+
+  .sidebar-buttons {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .home-nav {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 18px 32px;
+    margin-bottom: 30px;
+  }
+
+  .home-content {
+    max-width: none;
+  }
+}

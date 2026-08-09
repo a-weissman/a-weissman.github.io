@@ -1,5 +1,10 @@
 /* css styles */
 
+body {
+  background-color: #edf3f1;
+  position: relative;
+}
+
 .circular-image {
   width: 20%;
   display: block;

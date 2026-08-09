@@ -1,0 +1,50 @@
+---
+title: ""
+format:
+  html:
+    css:
+      - styles.css
+      - index-styles-revised.css
+    include-in-header:
+      text: |
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+---
+
+::::::::: home-layout
+::::: home-sidebar
+::: home-name
+Anna Weissman
+:::
+
+![](images/Headshot.png){.profile-image}
+
+::: sidebar-buttons
+<a href="mailto:anna_weissman@hks.harvard.edu" class="button"> <i class="fas fa-envelope"></i> Email </a>
+
+<a href="https://github.com/a-weissman" class="button"> <i class="fab fa-github"></i> GitHub </a>
+:::
+:::::
+
+::::: home-main
+<nav class="home-nav" aria-label="Main navigation">
+
+<a href="index.html" class="active">About</a> <a href="cv.html">CV</a> <a href="research.html">Research</a> <a href="data.html">Data</a>
+
+</nav>
+
+:::: home-content
+::: about-text
+Welcome! I am a Postdoctoral Fellow at the <a href="https://cities.harvard.edu/initiatives/local-politics-lab/" 
+   target="_blank" rel="noopener"
+   style="text-decoration:none; color:#1e3a8a;"> Local Politics Lab </a> at Harvard University. In 2027, I will begin as an Assistant Professor of Political Science at Williams College. Previously, I was a Postdoctoral Fellow at the <a href="https://csdp.princeton.edu/"
+   target="_blank" rel="noopener"
+   style="text-decoration:none; color:#1e3a8a;"> Center for the Study of Democratic Politics </a> at Princeton University. I received my PhD from the Department of Political Science at the University of California, Berkeley.
+
+My research is broadly focused on representation and local political economy. I study who holds power in American local governments, how they make decisions, and whose interests are reflected in policy. Another branch of my work explores attitudes about descriptive representation.
+
+<small><em> *I am also part of a research team studying local decision-making. If you are here because you received an email from me, please consider participating!* </em></small>
+:::
+::::
+:::::
+:::::::::
