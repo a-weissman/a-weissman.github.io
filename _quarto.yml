@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Anna Weissman"
+  search: false
   navbar:
     left:
       - href: index.html
