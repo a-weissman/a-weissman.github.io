@@ -30,9 +30,9 @@ body {
   display: inline-block;
   padding: 8px 15px;
   font-size: 12px;
-  color: #1e90ff; /* Blue text color */
+  color: #7a263a; /* Blue text color */
   background-color: white; /* White background */
-  border: 2px solid #add8e6; /* Light blue border */
+  border: 2px solid #681f32; /* red  border */
   border-radius: 5px;
   text-align: center;
   text-decoration: none;
@@ -40,8 +40,8 @@ body {
 }
 
 .button:hover {
-  background-color: #f0f8ff; /* Light blue background on hover */
-  border-color: #1e90ff; /* Blue border on hover */
+  background-color: #7a263a; /* red background on hover */
+  border-color: #681f32; /* Blue border on hover */
 }
 
 footer {
@@ -131,6 +131,15 @@ body {
   line-height: 1.6;
 }
 
+/* Link colors */
+a,
+a:visited {
+  color: #7a263a !important;
+}
 
+a:hover,
+a:focus {
+  color: #681f32 !important;
+}
 
 /*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
