@@ -1,5 +1,5 @@
 body {
-  background-color: #edf3f1;
+  background-color: #ffffff;
   position: relative;
 }
 
@@ -18,12 +18,13 @@ body {
 }
 
 .profile-image {
-  width: 220px;
+  width: 190px;
   height: auto;
   border-radius: 8px;
   display: block;
   margin: 0;
   float: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.09);
 }
 
 .home-content {
@@ -32,7 +33,7 @@ body {
   background: #eef1f4;
   padding: 36px 42px;
   border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.09);
 }
 
 /* mobile */
@@ -72,3 +73,4 @@ body {
   width: auto;
   white-space: nowrap;
 }
+
