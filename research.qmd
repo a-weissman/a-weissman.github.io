@@ -8,6 +8,7 @@ format:
 ### [Peer-Reviewed Articles]{.underline}
 
 \normalsize Descriptive Representation in an Era of Polarization [(2025). Anna Weissman. *The Journal of Politics*]{.citation-text}
+
 <details>
 
 <summary>[Abstract]{style="font-size:0.8em"} <a href="papers/Weissman_JOP_2025.pdf" target="_blank" title="Download PDF" style="margin-left:8px;"> <i class="fa-solid fa-file-pdf"></i> </a> <a href="https://www.journals.uchicago.edu/doi/10.1086/732961" target="_blank" title="Publisher page" style="margin-left:8px;"> <i class="fa-solid fa-link"></i> </a></summary>
@@ -17,6 +18,7 @@ Studies of descriptive representation find that voters more positively evaluate 
 </details>
 
 \normalsize As Racial Attitudes Go, So Goes Approval: Why White Democrats Favor Representatives of Color [(2025). Anna Weissman and Anna Mikkelborg. *Political Behavior*.]{.citation-text}
+
 <details>
 
 <summary>[Abstract]{style="font-size:0.8em"} <a href="papers/Weissman&Mikkelborg_Behavior_2025.pdf" target="_blank" title="Download PDF" style="margin-left:8px;"> <i class="fa-solid fa-file-pdf"></i> </a> <a href="https://doi.org/10.1007/s11109-025-10098-4" target="_blank" title="Publisher page" style="margin-left:8px;"> <i class="fa-solid fa-link"></i> </a></summary>
@@ -25,7 +27,8 @@ Recent research shows that white Democrats have become more approving of politic
 
 </details>
 
-\normalsize When Do Local Interest Groups Participate in the Housing Entitlement Process? [(2024). Michael Hankinson, Asya Magazinnik and Anna Weissman. *Journal of Political Institutions and Political Economy*. ]{.citation-text}
+\normalsize When Do Local Interest Groups Participate in the Housing Entitlement Process? [(2024). Michael Hankinson, Asya Magazinnik and Anna Weissman. *Journal of Political Institutions and Political Economy*.]{.citation-text}
+
 <details>
 
 <summary>[Abstract]{style="font-size:0.8em"} <a href="papers/Hankinson-Magazinnik-Weissman_JPIPE_2024.pdf" target="_blank" title="Download PDF" style="margin-left:8px;"> <i class="fa-solid fa-file-pdf"></i> </a> <a href="http://dx.doi.org/10.1561/113.00000093" target="_blank" title="Publisher page" style="margin-left:8px;"> <i class="fa-solid fa-link"></i> </a></summary>
@@ -37,6 +40,7 @@ Local governments control a hidden flow of economic goods that never appear on c
 ### [Working Papers]{.underline}
 
 Local Roots in Local Politics
+
 <details>
 
 ```{=html}
@@ -54,21 +58,27 @@ Local Roots in Local Politics
 ```
 
 <summary>[Abstract]{style="font-size:0.8em"}</summary>
-Who governs? To answer this central question in political science, scholars often study the people elected to office, but I argue that who is qualified to govern is decided before voters ever cast a ballot. Access to power can result from informal qualifications viewed as prerequisites for candidacy. Local politics offers a clear case: using novel datasets of campaign statements, linked voter file and candidate records, and original nationwide surveys of officials and constituents, I show that long-term residency operates as a de facto requirement for local candidacy. Roots shape who holds office and how candidates present themselves, resulting in a set of officials considerably more rooted than the people they represent. The descriptive overrepresentation of deeply rooted constituents can, however, translate into substantive underrepresentation for newcomers. I provide evidence consistent with such consequences. This reveals a tension between the legitimacy that traits may confer and the exclusion they generate. 
+
+Who governs? To answer this central question in political science, scholars often study the people elected to office, but I argue that who is qualified to govern is decided before voters ever cast a ballot. Access to power can result from informal qualifications viewed as prerequisites for candidacy. Local politics offers a clear case: using novel datasets of campaign statements, linked voter file and candidate records, and original nationwide surveys of officials and constituents, I show that long-term residency operates as a de facto requirement for local candidacy. Roots shape who holds office and how candidates present themselves, resulting in a set of officials considerably more rooted than the people they represent. The descriptive overrepresentation of deeply rooted constituents can, however, translate into substantive underrepresentation for newcomers. I provide evidence consistent with such consequences. This reveals a tension between the legitimacy that traits may confer and the exclusion they generate.
 
 </details>
 
 When Partisanship Matters in Local Politics
+
 <details>
 
 <summary>[Abstract]{style="font-size:0.8em"}</summary>
-Recent scholarship challenges the traditional view that partisanship has little influence on local governance, but explanations for why partisanship matters assume conditions present only in major cities. I argue that partisanship structures municipal decision-making most in large cities, where greater capacity and expansive policy agendas create the context for partisan conflict, but in the majority of local governments, this is not the case. To test this theory, I use an original survey of 1,280 elected officials, council meeting transcripts, and a novel dataset of candidate statements. I find that partisan division is limited on core municipal issues and in most municipalities, emerging primarily where broader agendas create opportunities for cleavages. These results reconcile findings from early work and recent evidence by demonstrating that party influence on decision-making is context dependent. While elite partisanship shapes state and national politics, it is not the primary organizing force among officials in most municipalities. 
+
+Recent scholarship challenges the traditional view that partisanship has little influence on local governance, but explanations for why partisanship matters assume conditions present only in major cities. I argue that partisanship structures municipal decision-making most in large cities, where greater capacity and expansive policy agendas create the context for partisan conflict, but in the majority of local governments, this is not the case. To test this theory, I use an original survey of 1,280 elected officials, council meeting transcripts, and a novel dataset of candidate statements. I find that partisan division is limited on core municipal issues and in most municipalities, emerging primarily where broader agendas create opportunities for cleavages. These results reconcile findings from early work and recent evidence by demonstrating that party influence on decision-making is context dependent. While elite partisanship shapes state and national politics, it is not the primary organizing force among officials in most municipalities.
+
 </details>
 
 Place-Based Connection and the Politics of Housing
+
 <details>
 
 <summary>[Abstract]{style="font-size:0.8em"}</summary>
+
 Opposition to housing development has long been explained by material self-interest and exclusionary attitudes, but scholars have recently proposed alternatives, such as aesthetic preferences. This paper offers an additional explanation for preservationist attitudes: place-based connection. Material, psychological, and social connections to place can produce an aversion to change that limits growth. Using an original survey of more than 1,000 registered voters across small-town and suburban municipalities with opportunities for growth, I generate six indices of place-based connection that are not strongly associated with one another nor with characteristics such as race, gender, or party. I find that distinct dimensions of place-based connection explain different preservationist attitudes: psychological attachment is the strongest and most consistent predictor, while long-term residency and growing up in a place matter most in growing communities where newcomers are salient. The paper develops a framework for understanding how place-based connection contributes to the politics of growth.
 
 </details>
@@ -81,6 +91,6 @@ Who is Held Responsible for Local Corruption? Convictions and Electoral Accounta
 
 How Local Officials (Mis)perceive the Politics and Economics of Growth (with David Broockman, Christopher Elmendorf, and Olivier Bergeron-Boutin)
 
-Changing the Guard: How Newcomers Break Entrenched Local Dynasties (with Christian Caballero)
+Changing the Guard: How Newcomers Break Entrenched Local Power (with Christian Caballero)
 
 Book Project: How Place Conditions Local Politics
